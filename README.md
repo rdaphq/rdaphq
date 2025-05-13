@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Rdap](https://rdaphq.com/cdn/github_rdap_banner.png)
+![Rdap](./github_rdap_banner.png)
 
 <!-- Start -->
 <h1 align="center">Hey, I'm Rdap 🦇</h1>
