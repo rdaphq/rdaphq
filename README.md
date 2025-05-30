@@ -3,7 +3,7 @@
 
 <!-- Start -->
 <h1 align="center">Hey, I'm Rdap 🦇</h1>
-<p align="center">I'm a frontend developer and a music producer from Argentina. Born in 2004, temporarily based in Medellín, Colombia.</p>
+<p align="center">I'm a frontend developer and a music producer. Born in 2004, temporarily based in Medellín, Colombia.</p>
 <p align="center">"Rdap" is an acronym that basically stands for some letters of my name. Just look at the caps -> <b>R</b>oman <b>D</b>u<b>A</b>rte <b>P</b>arra. And it's pronounced "R-dap", that's all. 😄</p>
 <br>
 <br>
