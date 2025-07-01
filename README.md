@@ -18,7 +18,7 @@
 <h1 align="center">Expert In</h1>
 <p align="center">
     <a href="https://dev.rdaphq.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css,discordjs,discord,html,ps,sass,tailwind" />
+        <img src="https://skillicons.dev/icons?i=css,discordjs,discord,html,ps,sass,tailwind,wordpress,vscode" />
     </a>
 </p>
 <br>
