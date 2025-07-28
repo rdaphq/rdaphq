@@ -3,8 +3,8 @@
 
 <!-- Start -->
 <h1 align="center">Hey, I'm Rdap 🦇</h1>
-<p align="center">I'm a frontend developer and a music producer. Born in 2004, temporarily based in Medellin, Colombia.</p>
-<p align="center">"Rdap" is an acronym that basically stands for some letters of my name. Just look at the caps -> <b>R</b>oman <b>D</b>u<b>A</b>rte <b>P</b>arra. And it's pronounced "R-dap", that's all. 😄</p>
+<p align="center">A web developer and a music producer. Born in 2004 and based (for now) in Medellin, Colombia.</p>
+<p align="center">"Rdap" is an acronym that basically stands for some letters of my name and it's pronounced "R-dap". 😄</p>
 <br>
 <br>
 <h1 align="center">Skills</h1>
