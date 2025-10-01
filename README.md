@@ -10,7 +10,7 @@
 <h1 align="center">Skills</h1>
 <p align="center">
     <a href="https://dev.rdaphq.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css,discordjs,discord,express,figma,gcp,git,github,html,js,mysql,nodejs,npm,ps,php,react,replit,sass,tailwind,ts,vscode,wordpress,windows,webflow&perline=8" />
+        <img src="https://skillicons.dev/icons?i=astro,nextjs,css,discordjs,express,figma,gcp,git,github,html,js,mysql,nodejs,npm,pnpm,ps,php,react,replit,sass,tailwind,ts,nginx,wordpress,webflow&perline=5" />
     </a>
 </p>
 <br>
@@ -18,7 +18,7 @@
 <h1 align="center">Expert In</h1>
 <p align="center">
     <a href="https://dev.rdaphq.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css,discordjs,discord,html,ps,sass,tailwind,wordpress,vscode" />
+        <img src="https://skillicons.dev/icons?i=css,discordjs,html,npm,pnpm,ps,react,sass,tailwind,wordpress" />
     </a>
 </p>
 <br>
