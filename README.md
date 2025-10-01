@@ -2,15 +2,15 @@
 <!-- ![Rdap](./github_rdap_banner.png) -->
 
 <!-- Start -->
-<h1 align="center">Hey, I'm Rdap 🦇</h1>
-<p align="center">A web developer and a music producer. Born in 2004 and based (for now) in Medellin, Colombia.</p>
-<p align="center">"Rdap" is an acronym that basically stands for some letters of my name and it's pronounced "R-dap". 😄</p>
+<h1 align="center">Hey, I'm Rdap 👋</h1>
+<p align="center">I'm a fullstack developer and a music producer. Born in 2004 hailing from Argentina and based in Medellin, Colombia.</p>
+<p align="center">"Rdap" is an acronym that basically stands for some letters of my name and it's pronounced "R-dap"!</p>
 <br>
 <br>
 <h1 align="center">Skills</h1>
 <p align="center">
     <a href="https://dev.rdaphq.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=astro,nextjs,css,discordjs,express,figma,gcp,git,github,html,js,mysql,nodejs,npm,pnpm,ps,php,react,replit,sass,tailwind,ts,nginx,wordpress,webflow&perline=5" />
+        <img src="https://skillicons.dev/icons?i=astro,nextjs,css,discordjs,express,figma,gcp,git,github,html,js,mysql,nodejs,npm,pnpm,ps,php,py,react,replit,redis,sass,sqlite,supabase,tailwind,ts,nginx,vercel,wordpress,webflow&perline=6" />
     </a>
 </p>
 <br>
