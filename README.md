@@ -3,7 +3,7 @@
 
 <!-- Start -->
 <h1 align="center">Hey, I'm Rdap 👋</h1>
-<p align="center">I'm a fullstack developer and a music producer. Born in 2004 hailing from Argentina and based in Medellin, Colombia.</p>
+<p align="center">I'm a fullstack developer and a music producer. Born in 2004 hailing from Argentina and living/based in Medellin, Colombia.</p>
 <p align="center">"Rdap" is an acronym that basically stands for some letters of my name and it's pronounced "R-dap"!</p>
 <br>
 <br>
