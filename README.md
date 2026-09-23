@@ -24,6 +24,6 @@
 <br>
 <br>
 <p align="center">
-    <small align="center">&copy; 2025 Rdap</small>
+    <small align="center">&copy; 2026 Rdap</small>
 </p>
 <!-- ![Skills/Knowledge](https://skillicons.dev/icons?i=css,discordjs,discord,express,figma,gcp,git,github,html,js,mysql,nodejs,npm,ps,php,react,replit,sass,sqlite,tailwind,ts,vscode,wordpress,windows,webflow) -->
